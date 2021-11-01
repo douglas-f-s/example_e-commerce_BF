@@ -1,0 +1,101 @@
+[
+  {
+    "tipo": "Iluminação",
+    "descricao": "Plafon Clean 25 Cm Branco com Fixador Cromado - Bronzarte.",
+    "img": "./assets/img/plafon-clean.png",
+    "valor": "R$15,90",
+    "parcela": "R$5,30"
+  },
+  {
+    "tipo": "Iluminação",
+    "descricao": "Lampada Eletrônica 3u 15w 127v 6400k-Taschibra.",
+    "img": "./assets/img/Lampada_Eletrônica.jpg",
+    "valor": "R$ 9,90",
+    "parcela": "R$3,30"
+  },
+  {
+    "tipo": "Iluminação",
+    "descricao": "Spot de Embutir Fixo para Lampada R63 10,5Cm Branco Ref. Mr063fbr - Bronzart.",
+    "img": "./assets/img/Spot_Mr063fbr _Bronzart.png",
+    "valor": "R$ 13,90",
+    "parcela": "R$4,63"
+  },
+  {
+    "tipo": "Iluminação",
+    "descricao": "Lampada Decorativa para Abajur Love Luz Amarela.",
+    "img": "./assets/img/Lampada_Abajur_Love.jpg",
+    "valor": "R$ 32,90",
+    "parcela": "R$10,97"
+  },
+  {
+    "tipo": "Iluminação",
+    "descricao": "Luminaria de Mesa Empire Branca - Startec.",
+    "img": "./assets/img/Luminaria_Empire_Branca.PNG",
+    "valor": "R$ 68,95",
+    "parcela": "R$22,98"
+  },
+  {
+    "tipo": "Iluminação",
+    "descricao": "Arandela 01 Lâmpada B Ouro Velho - Ideal.",
+    "img": "./assets/img/Arandela_Ouro_Velho.PNG",
+    "valor": "R$ 49,90",
+    "parcela": "R$16,63"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Lixa para Massa Nº 150 - 3M.",
+    "img": "./assets/img/Lixa_150.PNG",
+    "valor": "R$ 1,40",
+    "parcela": "R$0,47"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Cola decoflair 500g - Gart.",
+    "img": "./assets/img/Cola_decoflair.PNG",
+    "valor": "R$ 16,90",
+    "parcela": "R$5,63"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Massa corrida PVA 18 Litros - Suvinil.",
+    "img": "./assets/img/Massa_corrida.PNG",
+    "valor": "R$ 69,90",
+    "parcela": "R$23,30"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Rolo Adesivo Scoth-Braite - 3M.",
+    "img": "./assets/img/rolo_adesivo.PNG",
+    "valor": "R$ 12,90",
+    "parcela": "R$4,30"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Tinta Acrílica Fosco Branco 18 Litros - Suvinil.",
+    "img": "./assets/img/Tinta_Acrilica.PNG",
+    "valor": "R$ 299,90",
+    "parcela": "R$99,96"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Adesivo Argamassa Líquido Bianco 18Kg - Otto Baumgart.",
+    "img": "./assets/img/adesivo_argamassa.PNG",
+    "valor": "R$ 184,90",
+    "parcela": "R$61,63"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Fita Crepe Blue Tape 24mm x 50m - 3M.",
+    "img": "./assets/img/fita_Crepe.PNG",
+    "valor": "R$ 16,90",
+    "parcela": "R$5,63"
+  },
+  {
+    "tipo": "Tintas e Acessórios",
+    "descricao": "Adesivo Plastico para PVC Incolor Frasco 175g - Tigre.",
+    "img": "./assets/img/adesivo_blastico.PNG",
+    "valor": "R$ 16,90",
+    "parcela": "R$5,96"
+  }
+
+]

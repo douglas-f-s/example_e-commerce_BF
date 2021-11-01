@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open sans', sans-serif;
+  font-size: 1em;
+  line-height: 1em;
+  min-width: 360px;
+  background-color: #000;
+  color: #fff;
+}
+.card-body{
+  padding: 0.1em;
+  min-height: auto;
+}
+.card-parametros{
+  width: auto;
+  height: 27em;
+}
+.card:hover{
+  box-shadow: 0 0 2em #fffb00;
+}
+.img-container{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 60%;
+}
+
+.img-card-parametros{
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: fill;
+  width: auto;
+  height: 70%;
+}
+
+a, a:hover{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.bg-header-footer{
+  color: #000;
+  background-color: #fff;
+}
+
+.header{
+  background-image: url(../img/banner.jpg);
+  border-radius: 5px;  
+  margin: 0;
+  padding: 0;
+  width: 1200px;
+  height: 312px;
+  box-shadow: 0 0 1em #fffb00;
+}
+
+select{
+  box-shadow: 0 0 1em #fffb00;
+}
+
+.img-buy-page{
+  border-radius: 5px;
+  box-shadow: 0 0 1em #fffb00;
+}
+
+.white-link{
+  color:white;
+  text-decoration:underline;
+}
